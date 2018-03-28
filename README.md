@@ -1,4 +1,12 @@
 # Java for termux 
+
+
+git clone https://github.com/Fun4Android/java.git
+
+cd java
+
+sh installjava
+
 # Steps
 1.mv java/openjdk/java /data/data/com.termux/files/usr/bin
 
